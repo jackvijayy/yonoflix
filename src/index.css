@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* scroll bars customize */
+
+.sidebar::-webkit-scrollbar{
+    width: 10px;
+   
+}
+.videobar::-webkit-scrollbar{
+    width: 10px;
+   
+}
+.listbar::-webkit-scrollbar{
+    width: 10px;
+   
+}
+.suggest::-webkit-scrollbar{
+    width:2px;
+}
